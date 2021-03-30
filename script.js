@@ -24,13 +24,13 @@ for(let i = 0; i < 12; i++) {
         console.log (meses[i] + " tiene 31 días");
     }
 }
-console.log ("-----------------------------")
+console.log ("--------------")
 for(let i = 0; i < 12; i++) {
     if(diasdelMes[i] == 30) {
         console.log ( meses[i]+ " tiene 30 días");
     }
 }
-console.log ("-----------------------------")
+console.log ("--------------")
 for(let i = 0; i < 12; i++) {
     if(diasdelMes[i] == 28) {
         console.log ( meses[i]+ " tiene 28 días");
