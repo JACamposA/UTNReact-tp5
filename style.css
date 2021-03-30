@@ -1,0 +1,8 @@
+#log{
+  border:solid 3px red;
+  margin: auto;
+  text-align: center;
+  max-width: 40%;
+  font-size: 200%;
+  border-radius:5%;
+}
